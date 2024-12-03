@@ -1,0 +1,13 @@
+
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+
+*.bkp
+*.dtmp
+*.log
+
+# ide work dir
+.idea/
+.vscode/
