@@ -137,6 +137,10 @@ if [[ -f .node-version || -f .nvmrc ]]; then
 fi
 ```
 
+## webstorm找不到node路径的解决办法
+
+将%USERPROFILE%\AppData\Roaming\fnm\aliases\default\路径添加到PATH
+
 
 
 

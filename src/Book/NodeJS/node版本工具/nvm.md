@@ -58,3 +58,7 @@
 `nvm root [path]` ：设置存储不同版本node的目录。如果未设置，默认使用当前目录。
 
 `nvm version` ：显示nvm版本。version可简化为v。
+
+>nvm中文网站
+>
+>https://nvm.uihtm.com/
