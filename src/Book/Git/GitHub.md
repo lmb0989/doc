@@ -1,4 +1,4 @@
-## 如何提高github的搜素效率
+## 如何提高github的搜索效率
 
 1. **in:name xx1 xx2**  搜素项目名
 

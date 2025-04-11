@@ -77,7 +77,7 @@
 
 1、在下面的目录新建profile.ps1文件
 
-```
+```bash
 %USERPROFILE%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 ```
 
@@ -128,7 +128,7 @@ if not defined FNM_AUTORUN_GUARD (
   
   如果用户目录没有.bash_profile，则新建一个文件
 
-```
+```bash
 eval $(fnm env | sed 1d)
 export PATH=$(cygpath $FNM_MULTISHELL_PATH):$PATH
  
