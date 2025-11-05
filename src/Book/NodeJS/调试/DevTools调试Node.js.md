@@ -32,6 +32,10 @@ TypeScript 需要生成 Source Map 文件，以便 DevTools 能将运行的 Java
 node --inspect dist/index.js
 # 在首行暂停，等待调试器连接
 node --inspect-brk dist/index.js
+
+# 指定端口号
+node --inspect=10000 dist/index.js
+node --inspect-brk=10000 dist/index.js
 ```
 
 ### **在 Chrome 中连接 DevTools**
